@@ -1,0 +1,58 @@
+.abstract-bg{
+    background-image: url(./hero-wallpaper.jpg);
+}
+h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 13rem 8rem 0 8rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:400px;
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h2 {
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+  }
+  .text-body-emphasis{
+    padding: 0px;
+  }
+.fw-light{
+    padding: 0px;
+    font-weight: bolder;
+}
+main{
+    background-color: blanchedalmond;
+}
+.btn {
+    background: #FFD89C;
+    background-image: linear-gradient(to bottom, #FFD89C, #F1C27B);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.container1{
+    background-image: url(./hero-wallpaper.jpg);
+}
